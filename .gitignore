@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Winghouse_Simulator/Saved/Autosaves/
+Winghouse_Simulator/Saved/Crashes/
+Winghouse_Simulator/Saved/
+
